@@ -34,12 +34,12 @@ tensorboard --logdir <run_dir>
 
 ## Bibtex
 ```
-@inproceedings{
-	mao2023supported,
+@inproceedings{mao2023supported,
 	title={Supported Value Regularization for Offline Reinforcement Learning},
 	author={Yixiu Mao and Hongchang Zhang and Chen Chen and Yi Xu and Xiangyang Ji},
 	booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-	year={2023}
+	year={2023},
+	url={https://openreview.net/forum?id=fze7P9oy6l}
 }
 ```
 
